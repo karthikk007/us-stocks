@@ -44,7 +44,7 @@ def buy_stocks(args=None):
         cmd = 'open \"\" ' + link
         os.system(cmd)
 
-        time.sleep(5)
+        time.sleep(2)
 
 
 if __name__ == '__main__':
