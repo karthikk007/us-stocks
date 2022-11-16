@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -e
+
+# ROOT="${0%/*}"
+# "$ROOT"/runner.sh //tools/codegen:CodegenBin --repo-root "$ROOT" "$@"
+
+python3 main_files/__main__.py "$@"
