@@ -60,7 +60,7 @@ function updateInput() {
   document.execCommand('insertText', false, '5');
 }
 
-const dipStartValue = 4
+const dipStartValue = 3
 const dipEndValue = 100
 const buyOnDip = true
 
