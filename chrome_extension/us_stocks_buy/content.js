@@ -60,9 +60,9 @@ function updateInput() {
   document.execCommand('insertText', false, '5');
 }
 
-const dipStartValue = 3
+const dipStartValue = 1
 const dipEndValue = 100
-const buyOnDip = true
+const buyOnDip = false
 
 function isDip() {
   var divElement = document.getElementsByClassName("ml-3 text-brand-black")

@@ -2,6 +2,8 @@ import pandas as pd
 import os
 import time
 
+import webbrowser
+
 
 file_name = 'files/Investment budget - US STOCKS.csv'
 
@@ -38,11 +40,13 @@ def buy_stocks(args=None):
         print('opening.... count =', count)
         print(link)
 
-        if "coinbase-global-inc-share-price" in link:
-            continue
+        # if "coinbase-global-inc-share-price" in link:
+        #     continue
             
-        cmd = 'open \"\" ' + link
-        os.system(cmd)
+        # cmd = 'open \"\" ' + link
+        # os.system(cmd)
+
+        webbrowser.open(link)
 
         time.sleep(2)
 
