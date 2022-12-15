@@ -1,6 +1,14 @@
 // content.js
 
 
+const dipStartValue = 0
+const dipEndValue = 100
+const buyOnDip = true
+
+const recoverLoss = true
+const recoverAt = 40
+
+
 function tapOnBuyOrder() {
   var text = 'Place Buy Order';
 
@@ -60,9 +68,31 @@ function updateInput() {
   document.execCommand('insertText', false, '5');
 }
 
-const dipStartValue = 1
-const dipEndValue = 100
-const buyOnDip = false
+function getElementsByText(str, tag = 'a') {
+  return Array.prototype.slice.call(document.getElementsByTagName(tag)).filter(el => el.textContent.trim() === str.trim());
+}
+
+
+function isLoss() {
+  var element = getElementsByText("Overall Return", "td")
+  var parent = element[0].parentElement
+
+  var span = parent.getElementsByClassName('text-brand-red-carnation')
+
+  if (span.length > 0) {
+    var text = span[0].innerText
+
+    text = text.split('%')[0].split("▼").pop()
+
+    var value = parseFloat(text)
+
+    if (value >= recoverAt) {
+      return true
+    }
+  }
+
+  return false
+}
 
 function isDip() {
   var divElement = document.getElementsByClassName("ml-3 text-brand-black")
@@ -74,7 +104,7 @@ function isDip() {
 
     var value = parseFloat(str[0])
 
-    if (value > dipStartValue && value < dipEndValue) {
+    if (value >= dipStartValue && value < dipEndValue) {
       return true
     }
   }
@@ -100,18 +130,27 @@ function startBuyingOnDip() {
   if (isDip()) {
     startBuying()
   } else {
-    alert("Not buying this")
+    alert("Dip: Not buying this")
+  }
+}
+
+function startLossRecovery() {
+  if (isLoss()) {
+    startBuying()
+  } else {
+    alert("LossRecovery: Not buying this")
   }
 }
 
 setTimeout(() => {
-  if (buyOnDip) {
+  if (recoverLoss) {
+    startLossRecovery()
+  } else if (buyOnDip) {
     startBuyingOnDip()
   } else {
     startBuying()
   }
 }, 2000)
-
 
 
 
