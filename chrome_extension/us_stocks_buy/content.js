@@ -1,9 +1,9 @@
 // content.js
 
 
+const buyOnDip = false
 const dipStartValue = 0
 const dipEndValue = 100
-const buyOnDip = true
 
 const recoverLoss = true
 const recoverAt = 40

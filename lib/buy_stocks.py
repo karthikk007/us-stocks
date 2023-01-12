@@ -48,7 +48,12 @@ def buy_stocks(args=None):
 
         webbrowser.open(link)
 
-        time.sleep(2)
+        if count % 10 == 0:
+            print('\n\nTry closing tabs and continue!!!')
+            input("more?\n")
+            print()
+
+        time.sleep(1)
 
 
 if __name__ == '__main__':
