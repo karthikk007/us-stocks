@@ -5,7 +5,7 @@ const buyOnDip = false
 const dipStartValue = 0
 const dipEndValue = 100
 
-const recoverLoss = true
+const recoverLoss = false
 const recoverAt = 40
 
 
@@ -23,8 +23,33 @@ function tapOnBuyOrder() {
   matches[0].click()
 }
 
-function tapOnBuy() {
+function tapOnBuyV1() {
   var text = 'Buy Shares';
+
+  const matches = [];
+
+  for (const div of document.querySelectorAll('Button')) {
+    if (div.textContent.includes(text)) {
+      matches.push(div);
+    }
+  }
+
+  if (matches.length == 0) {
+    text = 'Buy ETF'
+
+    for (const div of document.querySelectorAll('Button')) {
+      if (div.textContent.includes(text)) {
+        matches.push(div);
+      }
+    }
+
+  }
+
+  matches[0].click()
+}
+
+function tapOnBuyV2() {
+  var text = 'BUY';
 
   const matches = [];
 
@@ -61,7 +86,9 @@ function updateInput() {
 
   console.log(matches);
 
-  matches[2].focus()
+  const element = matches.filter(element => element.outerHTML.includes("$0"))
+  element[0].focus()
+  // matches[1].focus()
 
   // matches[2].dispatchEvent
 
@@ -114,7 +141,7 @@ function isDip() {
 
 function startBuying() {
   setTimeout(() => {
-    tapOnBuy()
+    tapOnBuyV2()
   }, 2000)
 
   setTimeout(() => {
