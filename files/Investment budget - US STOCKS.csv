@@ -1,101 +1,101 @@
 STOCK,SYMBOL,LINK
-UBER,,https://www.indmoney.com/us-stocks/uber/uber-technologies-inc-share-price
-ZOOM VIDEO COMMUNICATIONS,,https://www.indmoney.com/us-stocks/zm/zoom-video-communications-inc-share-price
-SHOPIFY,,https://www.indmoney.com/us-stocks/shop/shopify-inc-share-price
-LYFT,,https://www.indmoney.com/us-stocks/lyft/lyft-inc-share-price
-MATTERPORT,,https://www.indmoney.com/us-stocks/mttr/matterport-inc-share-price
-SNAP INC,,https://www.indmoney.com/us-stocks/snap/snap-inc-share-price
-UNITY SOFTWARE,,https://www.indmoney.com/us-stocks/u/unity-software-inc-share-price
-CLOUDFLAIR INC,,https://www.indmoney.com/us-stocks/net/cloudflare-inc-share-price
-TWILIO,,https://www.indmoney.com/us-stocks/twlo/twilio-inc-share-price
-PAYPAL HOLDINGS INC,,https://www.indmoney.com/us-stocks/pypl/paypal-holdings-inc-share-price
-DOCUSIGN,,https://www.indmoney.com/us-stocks/docu/docusign-inc-share-price
-BLOCK INC,,https://www.indmoney.com/us-stocks/sq/square-inc-share-price
-DOXIMITY INC,,https://www.indmoney.com/us-stocks/docs/doximity-inc-share-price
-UIPATH INC,,https://www.indmoney.com/us-stocks/path/uipath-inc-share-price
-NETFLIX INC,,https://www.indmoney.com/us-stocks/nflx/netflix-inc-share-price
-HUBSPOT INC,,https://www.indmoney.com/us-stocks/hubs/hubspot-inc-share-price
-QUANTUMSCAPE CORP,,https://www.indmoney.com/us-stocks/qs/quantumscape-corp-share-price
-ALIBABA GROUP,,https://www.indmoney.com/us-stocks/baba/alibaba-group-holding-ltd-share-price
-AIRBNB,,https://www.indmoney.com/us-stocks/abnb/airbnb-inc-share-price
-TATA MOTORS LTD,,https://www.indmoney.com/us-stocks/ttm/tata-motors-ltd-share-price
-SPOTIFY TECHNOLOGY SA,,https://www.indmoney.com/us-stocks/spot/spotify-technology-s-a-share-price
-AMAZON.COM INC,,https://www.indmoney.com/us-stocks/amzn/amazon-com-inc-share-price
-SQUARESPACE INC,,https://www.indmoney.com/us-stocks/sqsp/squarespace-inc-share-price
-SNOWFLAKE INC,,https://www.indmoney.com/us-stocks/snow/snowflake-inc-share-price
-ADVANCED MICRO DEVICES INC,,https://www.indmoney.com/us-stocks/amd/advanced-micro-devices-inc-share-price
-FACEBOOK INC - CLASS A,,https://www.indmoney.com/us-stocks/meta/meta-platforms-inc
-ADOBE SYSTEMS,,https://www.indmoney.com/us-stocks/adbe/adobe-inc-share-price
-SALESFORCE INC,,https://www.indmoney.com/us-stocks/crm/salesforce-com-inc-share-price
-NVIDIA CORPORATION,,https://www.indmoney.com/us-stocks/nvda/nvidia-corp-share-price
-PFIZER INC,,https://www.indmoney.com/us-stocks/pfe/pfizer-inc-share-price
-COINBASE GLOBAL INC,,https://www.indmoney.com/us-stocks/coin/coinbase-global-inc-share-price
-AMDOCS LIMITED,,https://www.indmoney.com/us-stocks/dox/amdocs-ltd-share-price
-TESLA INC,,https://www.indmoney.com/us-stocks/tsla/tesla-inc-share-price
-TAIWAN SEMICONDUCTOR MANUFACTURING CO,,https://www.indmoney.com/us-stocks/tsm/taiwan-semiconductor-manufacturing-share-price
-ISHARES RUSSELL TOP 200 GROWTH,,https://www.indmoney.com/us-stocks/etf/iwy/ishares-russell-top-200-growth-share-price
-ALPHABET INC - CLASS C SHARES,,https://www.indmoney.com/us-stocks/goog/alphabet-inc-share-price
-MICROSOFT CORPORATION,,https://www.indmoney.com/us-stocks/msft/microsoft-corporation-share-price
-VANGUARD MEGA CAP GROWTH ETF,,https://www.indmoney.com/us-stocks/etf/mgk/vanguard-mega-cap-growth-etf-share-price
-ALPHABET INC - CLASS A SHARES,,https://www.indmoney.com/us-stocks/googl/alphabet-inc-share-price
-APPLE INC,,https://www.indmoney.com/us-stocks/aapl/apple-inc-share-price
-INTUIT INC,,https://www.indmoney.com/us-stocks/intu/intuit-inc-share-price
-REIT VANGUARD ETF,,https://www.indmoney.com/us-stocks/etf/vnq/reit-vanguard-etf-share-price
-INVESCO QQQ TRUST SERIES 1,,https://www.indmoney.com/us-stocks/etf/qqq/invesco-qqq-trust-series-1-share-price
-QUALCOMM INCORPORATED,,https://www.indmoney.com/us-stocks/qcom/qualcomm-inc-share-price
-WIPRO LTD,,https://www.indmoney.com/us-stocks/wit/wipro-ltd-share-price
-VERISIGN INC,,https://www.indmoney.com/us-stocks/vrsn/verisign-inc-share-price
-WALMART INC,,https://www.indmoney.com/us-stocks/wmt/walmart-inc-share-price
-BERKSHIRE HATHAWAY INC - HLD B,,https://www.indmoney.com/us-stocks/brk.b/berkshire-hathaway-inc-share-price
-GODADDY INC,,https://www.indmoney.com/us-stocks/gddy/godaddy-inc-share-price
-BROADCOM INC,,https://www.indmoney.com/us-stocks/avgo/broadcom-inc-share-price
-INTEL CORPORATION,,https://www.indmoney.com/us-stocks/intc/intel-corp-share-price
-FIDELITY NASDAQ COMPOSITE INDEX FUND,,https://www.indmoney.com/us-stocks/etf/oneq/fidelity-nasdaq-composite-index-etf-share-price
-PROSHARES ULTRAPRO S&P500 - UPRO,UPRO,https://www.indmoney.com/us-stocks/etf/upro/proshares-ultrapro-s-p500-share-price
-AKAMAI TECHNOLOGIES INC,,https://www.indmoney.com/us-stocks/akam/akamai-technologies-inc-share-price
-"WALT DISNEY COMPANY, THE",,https://www.indmoney.com/us-stocks/dis/walt-disney-co-the-share-price
-WEWORK INC,,https://www.indmoney.com/us-stocks/we/wework-inc-share-price
-PROSHARES ULTRA REAL ESTATE 2X ETF,URE,https://www.indmoney.com/us-stocks/etf/ure/proshares-ultra-real-estate-2x-etf-share-price
-HP INC,,https://www.indmoney.com/us-stocks/hpq/hp-inc-share-price
-DELL TECHNOLOGIES INC - CLASS C SHARES,,https://www.indmoney.com/us-stocks/dell/dell-technologies-inc-share-price
-PURE STORATE,,https://www.indmoney.com/us-stocks/pstg/pure-storage-inc-share-price
-"KRAFT HEINZ COMPANY, THE",,https://www.indmoney.com/us-stocks/khc/kraft-heinz-co-share-price
-Getty Images Holdings Inc (GETY),,https://www.indmoney.com/us-stocks/gety/getty-images-holdings-inc-share-price
-MARATHON OIL CORPORATION,,https://www.indmoney.com/us-stocks/mro/marathon-oil-corporation-share-price
-CHEWY INC,,https://www.indmoney.com/us-stocks/chwy/chewy-inc-share-price
-VERU INC,,https://www.indmoney.com/us-stocks/veru/veru-inc-share-price
-BANK OF AMERICA CORP,,https://www.indmoney.com/us-stocks/bac/bank-of-america-corp-share-price
-"COCA-COLA COMPANY, THE",,https://www.indmoney.com/us-stocks/ko/coca-cola-co-share-price
-TARGET CORP,,https://www.indmoney.com/us-stocks/tgt/target-corp-share-price
-CISCO SYSTEMS INC,,https://www.indmoney.com/us-stocks/csco/cisco-systems-inc-share-price
-RIVIAN AUTOMOTIVE INC,,https://www.indmoney.com/us-stocks/rivn/rivian-automotive-inc-share-price
-Li Auto Inc (LI),,https://www.indmoney.com/us-stocks/li/li-auto-inc-share-price
-NIO Inc. (NIO),,https://www.indmoney.com/us-stocks/nio/nio-inc-share-price
-"Olaplex Holdings, Inc. (OLPX)",,https://www.indmoney.com/us-stocks/olpx/olaplex-holdings-inc-share-price
-Tenable Holdings Inc. (TENB),,https://www.indmoney.com/us-stocks/tenb/tenable-holdings-inc-share-price
-"Applied Materials, Inc. (AMAT)",,https://www.indmoney.com/us-stocks/amat/applied-materials-inc-share-price
-Affirm Holdings Inc (AFRM),,https://www.indmoney.com/us-stocks/afrm/affirm-holdings-inc-share-price
-SHELL PLC - ADS (SHEL),,https://www.indmoney.com/us-stocks/shel/shell-plc-share-price
-Altra Industrial Motion Corp (AIMC),,https://www.indmoney.com/us-stocks/aimc/altra-industrial-motion-corp-share-price
-"Fiserv, Inc. (FISV)",,https://www.indmoney.com/us-stocks/fisv/fiserv-inc-share-price
-"Roku, Inc. (ROKU)",,https://www.indmoney.com/us-stocks/roku/roku-inc-share-price
-Datadog Inc (DDOG),,https://www.indmoney.com/us-stocks/ddog/datadog-inc-share-price
-"Procter & Gamble Company, The (PG)",,https://www.indmoney.com/us-stocks/pg/procter-gamble-co-share-price
-Exxon Mobil Corp. (XOM),,https://www.indmoney.com/us-stocks/xom/exxon-mobil-corp-share-price
-"Medpace Holdings, Inc. (MEDP)",,https://www.indmoney.com/us-stocks/medp/medpace-holdings-inc-share-price
-"Visa, Inc. (V)",,https://www.indmoney.com/us-stocks/v/visa-inc-share-price
 Accenture plc (ACN),,https://www.indmoney.com/us-stocks/acn/accenture-plc-share-price
-UnitedHealth Group Incorporated (UNH),,https://www.indmoney.com/us-stocks/unh/unitedhealth-group-inc-share-price
-"Thermo Fisher Scientific, Inc. (TMO)",,https://www.indmoney.com/us-stocks/tmo/thermo-fisher-scientific-inc-share-price
+ADOBE SYSTEMS,,https://www.indmoney.com/us-stocks/adbe/adobe-inc-share-price
+ADVANCED MICRO DEVICES INC,,https://www.indmoney.com/us-stocks/amd/advanced-micro-devices-inc-share-price
+Affirm Holdings Inc (AFRM),,https://www.indmoney.com/us-stocks/afrm/affirm-holdings-inc-share-price
+AIRBNB,,https://www.indmoney.com/us-stocks/abnb/airbnb-inc-share-price
+AKAMAI TECHNOLOGIES INC,,https://www.indmoney.com/us-stocks/akam/akamai-technologies-inc-share-price
+ALIBABA GROUP,,https://www.indmoney.com/us-stocks/baba/alibaba-group-holding-ltd-share-price
+ALPHABET INC - CLASS A SHARES,,https://www.indmoney.com/us-stocks/googl/alphabet-inc-share-price
+ALPHABET INC - CLASS C SHARES,,https://www.indmoney.com/us-stocks/goog/alphabet-inc-share-price
+AMAZON.COM INC,,https://www.indmoney.com/us-stocks/amzn/amazon-com-inc-share-price
+AMDOCS LIMITED,,https://www.indmoney.com/us-stocks/dox/amdocs-ltd-share-price
+APPLE INC,,https://www.indmoney.com/us-stocks/aapl/apple-inc-share-price
+"Applied Materials, Inc. (AMAT)",,https://www.indmoney.com/us-stocks/amat/applied-materials-inc-share-price
 Atlassian Corporation Plc (TEAM),,https://www.indmoney.com/us-stocks/team/atlassian-corporation-plc-share-price
-Invesco S&P 500® Equal Weight Energy ETF (RYE),,https://www.indmoney.com/us-stocks/etf/rye/guggenheim-s-p-500-equal-wt-energy-etf-share-price
-DoorDash (DASH),,https://www.indmoney.com/us-stocks/dash/doordash-inc-share-price
-Starbucks Corporation (SBUX),,https://www.indmoney.com/us-stocks/sbux/starbucks-corp-share-price
-SOTERA HEALTH CO (SHC),,https://www.indmoney.com/us-stocks/shc/sotera-health-co-share-price
+BANK OF AMERICA CORP,,https://www.indmoney.com/us-stocks/bac/bank-of-america-corp-share-price
+BERKSHIRE HATHAWAY INC - HLD B,,https://www.indmoney.com/us-stocks/brk.b/berkshire-hathaway-inc-share-price
+BLOCK INC,,https://www.indmoney.com/us-stocks/sq/square-inc-share-price
+"Box, Inc. (BOX)",,https://www.indmoney.com/us-stocks/box/box-inc-share-price
+BROADCOM INC,,https://www.indmoney.com/us-stocks/avgo/broadcom-inc-share-price
+CHEWY INC,,https://www.indmoney.com/us-stocks/chwy/chewy-inc-share-price
+CISCO SYSTEMS INC,,https://www.indmoney.com/us-stocks/csco/cisco-systems-inc-share-price
+CLOUDFLAIR INC,,https://www.indmoney.com/us-stocks/net/cloudflare-inc-share-price
+"COCA-COLA COMPANY, THE",,https://www.indmoney.com/us-stocks/ko/coca-cola-co-share-price
+COINBASE GLOBAL INC,,https://www.indmoney.com/us-stocks/coin/coinbase-global-inc-share-price
 Comstock Resources Inc (CRK),,https://www.indmoney.com/us-stocks/crk/comstock-resources-inc-share-price
 "Confluent, Inc (CFLT)",,https://www.indmoney.com/us-stocks/cflt/confluent-inc-share-price
-"Box, Inc. (BOX)",,https://www.indmoney.com/us-stocks/box/box-inc-share-price
+Datadog Inc (DDOG),,https://www.indmoney.com/us-stocks/ddog/datadog-inc-share-price
+DELL TECHNOLOGIES INC - CLASS C SHARES,,https://www.indmoney.com/us-stocks/dell/dell-technologies-inc-share-price
+DOCUSIGN,,https://www.indmoney.com/us-stocks/docu/docusign-inc-share-price
+DoorDash (DASH),,https://www.indmoney.com/us-stocks/dash/doordash-inc-share-price
+DOXIMITY INC,,https://www.indmoney.com/us-stocks/docs/doximity-inc-share-price
+Exxon Mobil Corp. (XOM),,https://www.indmoney.com/us-stocks/xom/exxon-mobil-corp-share-price
+FACEBOOK INC - CLASS A,,https://www.indmoney.com/us-stocks/meta/meta-platforms-inc
+FIDELITY NASDAQ COMPOSITE INDEX FUND,,https://www.indmoney.com/us-stocks/etf/oneq/fidelity-nasdaq-composite-index-etf-share-price
+Getty Images Holdings Inc (GETY),,https://www.indmoney.com/us-stocks/gety/getty-images-holdings-inc-share-price
+GODADDY INC,,https://www.indmoney.com/us-stocks/gddy/godaddy-inc-share-price
 "HASHICORP, INC. (HCP)",,https://www.indmoney.com/us-stocks/hcp/hashicorp-inc-share-price
-Smartsheet Inc. (SMAR),,https://www.indmoney.com/us-stocks/smar/smartsheet-inc-share-price
 Horizon Therapeutics Public Ltd Co  (HZNP),,https://www.indmoney.com/us-stocks/hznp/horizon-therapeutics-plc-share-price
-Coupa Software Inc (COUP),,https://www.indmoney.com/us-stocks/coup/coupa-software-inc-share-price
+HP INC,,https://www.indmoney.com/us-stocks/hpq/hp-inc-share-price
+Hsbc Holdings Plc (HSBC),,https://www.indmoney.com/us-stocks/hsbc/hsbc-holdings-plc-share-price
+HUBSPOT INC,,https://www.indmoney.com/us-stocks/hubs/hubspot-inc-share-price
+INTEL CORPORATION,,https://www.indmoney.com/us-stocks/intc/intel-corp-share-price
+INTUIT INC,,https://www.indmoney.com/us-stocks/intu/intuit-inc-share-price
+INVESCO QQQ TRUST SERIES 1,,https://www.indmoney.com/us-stocks/etf/qqq/invesco-qqq-trust-series-1-share-price
+ISHARES RUSSELL TOP 200 GROWTH,,https://www.indmoney.com/us-stocks/etf/iwy/ishares-russell-top-200-growth-share-price
+"KRAFT HEINZ COMPANY, THE",,https://www.indmoney.com/us-stocks/khc/kraft-heinz-co-share-price
+Li Auto Inc (LI),,https://www.indmoney.com/us-stocks/li/li-auto-inc-share-price
+LYFT,,https://www.indmoney.com/us-stocks/lyft/lyft-inc-share-price
+MARATHON OIL CORPORATION,,https://www.indmoney.com/us-stocks/mro/marathon-oil-corporation-share-price
+Marvell Technology Group Ltd. (MRVL),,https://www.indmoney.com/us-stocks/mrvl/marvell-technology-inc-share-price 
+MATTERPORT,,https://www.indmoney.com/us-stocks/mttr/matterport-inc-share-price
+"Medpace Holdings, Inc. (MEDP)",,https://www.indmoney.com/us-stocks/medp/medpace-holdings-inc-share-price
+MICROSOFT CORPORATION,,https://www.indmoney.com/us-stocks/msft/microsoft-corporation-share-price
+Morgan Stanley (MS),,https://www.indmoney.com/us-stocks/ms/morgan-stanley-share-price
+NETFLIX INC,,https://www.indmoney.com/us-stocks/nflx/netflix-inc-share-price
+NIO Inc. (NIO),,https://www.indmoney.com/us-stocks/nio/nio-inc-share-price
+NVIDIA CORPORATION,,https://www.indmoney.com/us-stocks/nvda/nvidia-corp-share-price
+"Olaplex Holdings, Inc. (OLPX)",,https://www.indmoney.com/us-stocks/olpx/olaplex-holdings-inc-share-price
+PAYPAL HOLDINGS INC,,https://www.indmoney.com/us-stocks/pypl/paypal-holdings-inc-share-price
+"Pepsico, Inc. (PEP)",,https://www.indmoney.com/us-stocks/pep/pepsico-inc-share-price
+PFIZER INC,,https://www.indmoney.com/us-stocks/pfe/pfizer-inc-share-price
+"Procter & Gamble Company, The (PG)",,https://www.indmoney.com/us-stocks/pg/procter-gamble-co-share-price
+PROSHARES ULTRA REAL ESTATE 2X ETF,URE,https://www.indmoney.com/us-stocks/etf/ure/proshares-ultra-real-estate-2x-etf-share-price
+PROSHARES ULTRAPRO S&P500 - UPRO,UPRO,https://www.indmoney.com/us-stocks/etf/upro/proshares-ultrapro-s-p500-share-price
+PURE STORATE,,https://www.indmoney.com/us-stocks/pstg/pure-storage-inc-share-price
+QUALCOMM INCORPORATED,,https://www.indmoney.com/us-stocks/qcom/qualcomm-inc-share-price
+QUANTUMSCAPE CORP,,https://www.indmoney.com/us-stocks/qs/quantumscape-corp-share-price
+REIT VANGUARD ETF,,https://www.indmoney.com/us-stocks/etf/vnq/reit-vanguard-etf-share-price
+RIVIAN AUTOMOTIVE INC,,https://www.indmoney.com/us-stocks/rivn/rivian-automotive-inc-share-price
+"Roku, Inc. (ROKU)",,https://www.indmoney.com/us-stocks/roku/roku-inc-share-price
+SALESFORCE INC,,https://www.indmoney.com/us-stocks/crm/salesforce-com-inc-share-price
+SHELL PLC - ADS (SHEL),,https://www.indmoney.com/us-stocks/shel/shell-plc-share-price
+SHOPIFY,,https://www.indmoney.com/us-stocks/shop/shopify-inc-share-price
+Smartsheet Inc. (SMAR),,https://www.indmoney.com/us-stocks/smar/smartsheet-inc-share-price
+SNAP INC,,https://www.indmoney.com/us-stocks/snap/snap-inc-share-price
+SNOWFLAKE INC,,https://www.indmoney.com/us-stocks/snow/snowflake-inc-share-price
+SOTERA HEALTH CO (SHC),,https://www.indmoney.com/us-stocks/shc/sotera-health-co-share-price
+SPOTIFY TECHNOLOGY SA,,https://www.indmoney.com/us-stocks/spot/spotify-technology-s-a-share-price
+SQUARESPACE INC,,https://www.indmoney.com/us-stocks/sqsp/squarespace-inc-share-price
+Starbucks Corporation (SBUX),,https://www.indmoney.com/us-stocks/sbux/starbucks-corp-share-price
+TAIWAN SEMICONDUCTOR MANUFACTURING CO,,https://www.indmoney.com/us-stocks/tsm/taiwan-semiconductor-manufacturing-share-price
+TARGET CORP,,https://www.indmoney.com/us-stocks/tgt/target-corp-share-price
+Tenable Holdings Inc. (TENB),,https://www.indmoney.com/us-stocks/tenb/tenable-holdings-inc-share-price
+TESLA INC,,https://www.indmoney.com/us-stocks/tsla/tesla-inc-share-price
+"Thermo Fisher Scientific, Inc. (TMO)",,https://www.indmoney.com/us-stocks/tmo/thermo-fisher-scientific-inc-share-price
+Toyota Motor Corporation (TM),,https://www.indmoney.com/us-stocks/tm/toyota-motor-corporation-share-price
+TWILIO,,https://www.indmoney.com/us-stocks/twlo/twilio-inc-share-price
+UBER,,https://www.indmoney.com/us-stocks/uber/uber-technologies-inc-share-price
+UIPATH INC,,https://www.indmoney.com/us-stocks/path/uipath-inc-share-price
+UnitedHealth Group Incorporated (UNH),,https://www.indmoney.com/us-stocks/unh/unitedhealth-group-inc-share-price
+UNITY SOFTWARE,,https://www.indmoney.com/us-stocks/u/unity-software-inc-share-price
+VANGUARD MEGA CAP GROWTH ETF,,https://www.indmoney.com/us-stocks/etf/mgk/vanguard-mega-cap-growth-etf-share-price
+VERISIGN INC,,https://www.indmoney.com/us-stocks/vrsn/verisign-inc-share-price
+VERU INC,,https://www.indmoney.com/us-stocks/veru/veru-inc-share-price
+"Visa, Inc. (V)",,https://www.indmoney.com/us-stocks/v/visa-inc-share-price
+WALMART INC,,https://www.indmoney.com/us-stocks/wmt/walmart-inc-share-price
+"WALT DISNEY COMPANY, THE",,https://www.indmoney.com/us-stocks/dis/walt-disney-co-the-share-price
+WEWORK INC,,https://www.indmoney.com/us-stocks/we/wework-inc-share-price
+WIPRO LTD,,https://www.indmoney.com/us-stocks/wit/wipro-ltd-share-price
+ZOOM VIDEO COMMUNICATIONS,,https://www.indmoney.com/us-stocks/zm/zoom-video-communications-inc-share-price

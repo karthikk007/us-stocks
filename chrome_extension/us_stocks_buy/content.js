@@ -6,7 +6,7 @@ const dipStartValue = 0
 const dipEndValue = 100
 
 const recoverLoss = false
-const recoverAt = 40
+const recoverAt = 20
 
 
 function tapOnBuyOrder() {
